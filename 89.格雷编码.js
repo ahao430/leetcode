@@ -10,7 +10,16 @@
  * @return {number[]}
  */
 var grayCode = function(n) {
+  let res = []
+  let num = Number(0, 2)
+  while (res.length < n) {
 
+  }
+
+
+  function bin2dec (str) {
+
+  }
 };
 // @lc code=end
 
